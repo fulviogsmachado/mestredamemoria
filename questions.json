@@ -1,0 +1,324 @@
+{
+  "jogadores": [
+    {
+      "id": 1,
+      "nome": "Neymar Jr.",
+      "imagem": "image/neymar.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Al-Hilal",
+          "imagem": "image/alhillal.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Brasil",
+          "imagem": "image/brasilEscudo.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Liga dos Campeões da UEFA",
+          "imagem": "image/championsleague.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Tite",
+          "imagem": "image/tite.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "Saudi Pro League",
+          "imagem": "image/saudiproleague.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Lionel Messi",
+      "imagem": "image/messi.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Inter Miami",
+          "imagem": "image/intermiami.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Argentina",
+          "imagem": "image/argentina.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Copa do Mundo 2022",
+          "imagem": "image/copadomundo.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Luis Enrique",
+          "imagem": "image/luishenrique.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "MLS",
+          "imagem": "image/mls.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Cristiano Ronaldo",
+      "imagem": "image/cristianoronaldo.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Al-Nassr",
+          "imagem": "image/alnassr.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Portugal",
+          "imagem": "image/portugalEscudo.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Eurocopa 2016",
+          "imagem": "image/eurocopa.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Zinedine Zidane",
+          "imagem": "image/zidane.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "Saudi Pro League",
+          "imagem": "image/saudiproleague.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Kylian Mbappé",
+      "imagem": "image/mbappe.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Paris Saint-Germain",
+          "imagem": "image/psg.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "França",
+          "imagem": "image/franca.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Copa do Mundo 2018",
+          "imagem": "image/copadomundo.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Didier Deschamps",
+          "imagem": "image/deschamp.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "Ligue 1",
+          "imagem": "image/league1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Vinícius Jr.",
+      "imagem": "image/vinijr.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Real Madrid",
+          "imagem": "image/realmadrid.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Brasil",
+          "imagem": "image/brasilEscudo.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Liga dos Campeões da UEFA",
+          "imagem": "image/championsleague.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Carlo Ancelotti",
+          "imagem": "image/anceloti.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "La Liga",
+          "imagem": "image/laliga.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Erling Haaland",
+      "imagem": "image/haland.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Manchester City",
+          "imagem": "image/city.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Noruega",
+          "imagem": "image/noruega.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Premier League",
+          "imagem": "image/premierleague.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Pep Guardiola",
+          "imagem": "image/guardiola.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "Premier League",
+          "imagem": "image/premierleague.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Kevin De Bruyne",
+      "imagem": "image/debruyne.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Manchester City",
+          "imagem": "image/city.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Bélgica",
+          "imagem": "image/belgica.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Premier League",
+          "imagem": "image/premierleague.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Pep Guardiola",
+          "imagem": "image/guardiola.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "Premier League",
+          "imagem": "image/premierleague.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Robert Lewandowski",
+      "imagem": "image/lewandowski.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Barcelona",
+          "imagem": "image/barcelona.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Polônia",
+          "imagem": "image/polonia.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Liga dos Campeões da UEFA",
+          "imagem": "image/championsleague.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Julian Nagelsmann",
+          "imagem": "image/juliannagelsmann.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "La Liga",
+          "imagem": "image/laliga.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Mohamed Salah",
+      "imagem": "image/mohamedSalah.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Liverpool",
+          "imagem": "image/Liverpool-logo-0.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Egito",
+          "imagem": "image/egito.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Premier League",
+          "imagem": "image/premierleague.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Jürgen Klopp",
+          "imagem": "image/klopp.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "Premier League",
+          "imagem": "image/premierleague.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Luka Modric",
+      "imagem": "image/modric.jpg",
+      "respostas": [
+        {
+          "categoria": "clube",
+          "valor": "Real Madrid",
+          "imagem": "image/realmadrid.jpg"
+        },
+        {
+          "categoria": "nacionalidade",
+          "valor": "Croácia",
+          "imagem": "image/croacia.jpg"
+        },
+        {
+          "categoria": "campeonato",
+          "valor": "Liga dos Campeões da UEFA",
+          "imagem": "image/championsleague.jpg"
+        },
+        {
+          "categoria": "treinador",
+          "valor": "Carlo Ancelotti",
+          "imagem": "image/anceloti.jpg"
+        },
+        {
+          "categoria": "liga",
+          "valor": "La Liga",
+          "imagem": "image/laliga.jpg"
+        }
+      ]
+    }
+  ]
+}

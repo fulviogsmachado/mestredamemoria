@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Futebol</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div id="tela-inicial" class="tela">
+            <h1>Quiz de Futebol</h1>
+            <p>Teste seus conhecimentos sobre jogadores de futebol!</p>
+            
+            <div class="configuracao-tempo">
+                <h2>Escolha o tempo de jogo:</h2>
+                <div class="opcoes-tempo">
+                    <button class="btn-tempo" data-tempo="30">30 segundos</button>
+                    <button class="btn-tempo" data-tempo="60">1 minuto</button>
+                    <button class="btn-tempo" data-tempo="120">2 minutos</button>
+                    <button class="btn-tempo" data-tempo="300">5 minutos</button>
+                </div>
+            </div>
+            
+            <button id="btn-iniciar" class="btn-principal">Iniciar Jogo</button>
+        </div>
+
+        <div id="tela-jogo" class="tela escondido">
+            <div class="cabecalho">
+                <div class="info">
+                    <div class="pontuacao">Pontuação: <span id="pontuacao">0</span></div>
+                    <div class="tempo">Tempo: <span id="tempo">00:00</span></div>
+                </div>
+            </div>
+
+            <div class="area-jogo">
+                <div class="jogador">
+                    <img id="imagem-jogador" src="" alt="Jogador de futebol">
+                    <div id="nome-jogador" class="nome-jogador"></div>
+                </div>
+
+                <div class="cartela">
+                    <div class="linha">
+                        <div class="celula" data-index="0">
+                            <img src="" alt="Opção 1" class="imagem-opcao">
+                        </div>
+                        <div class="celula" data-index="1">
+                            <img src="" alt="Opção 2" class="imagem-opcao">
+                        </div>
+                        <div class="celula" data-index="2">
+                            <img src="" alt="Opção 3" class="imagem-opcao">
+                        </div>
+                    </div>
+                    <div class="linha">
+                        <div class="celula" data-index="3">
+                            <img src="" alt="Opção 4" class="imagem-opcao">
+                        </div>
+                        <div class="celula" data-index="4">
+                            <img src="" alt="Opção 5" class="imagem-opcao">
+                        </div>
+                        <div class="celula" data-index="5">
+                            <img src="" alt="Opção 6" class="imagem-opcao">
+                        </div>
+                    </div>
+                    <div class="linha">
+                        <div class="celula" data-index="6">
+                            <img src="" alt="Opção 7" class="imagem-opcao">
+                        </div>
+                        <div class="celula" data-index="7">
+                            <img src="" alt="Opção 8" class="imagem-opcao">
+                        </div>
+                        <div class="celula" data-index="8">
+                            <img src="" alt="Opção 9" class="imagem-opcao">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="tela-fim" class="tela escondido">
+            <h1>Fim de Jogo!</h1>
+            <div class="resultado">
+                <p>Sua pontuação final: <span id="pontuacao-final">0</span></p>
+            </div>
+            <button id="btn-novo-jogo" class="btn-principal">Jogar Novamente</button>
+        </div>
+        
+        <footer class="rodape">
+            <p>Site criado por Fúlvio Guilherme</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
